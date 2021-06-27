@@ -11,7 +11,7 @@ public class first_cry
         int b=s.nextInt();
         int c=a+b;
         System.out.println(a+"  "+b);
-        System.out.println("result is :"+c);
+        System.out.println("The result is :"+c);
 
     }
 
